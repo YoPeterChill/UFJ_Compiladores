@@ -1,0 +1,59 @@
+// Programa exemplo com variáveis, operações e estruturas de controle
+
+// Declarando variáveis
+b = -10.1;
+a = 1;
+c = 2 * (9 * 10);
+
+// Expressões aritméticas
+a10 = a + 10;
+acasd = -1.;
+
+// Mais operações com variáveis
+b = 1;
+c = a + b;
+c = 9;
+
+// Imprimindo variável 'a'
+oh a;
+
+// Imprimindo strings
+oh "palavras";
+
+// Expressões aritméticas dentro de 'oh'
+oh (1 + 2 + 2);
+oh (1 * 2 / 2);
+
+// Atribuições booleanas
+a = vo;
+a = vonada;
+
+// Estrutura condicional 'nana' com bloco de código
+nana (a < b) {
+    a = 10;
+    a = 20;
+    c = vo;
+}
+
+// Estrutura condicional 'nana' aninhada
+nana (c < 10) {
+    oh "c é menor que 10";
+    c = c - 1;
+} donaoein {
+    oh "c não é menor que 10";
+}
+
+// Estrutura de repetição 'uta' com expressões booleanas
+uta ([[a == c] tata [a < b]]) {
+    oh "Olá Mundo! 1 ";
+}
+
+// Estrutura de repetição 'queh'
+queh {
+    oh "Olá Mundo! 2";
+}
+
+// Estrutura de repetição 'uta' aninhada
+uta ([c > 5] evin [[c < 10] tata [c < 39]]) {
+    a = 10;
+}

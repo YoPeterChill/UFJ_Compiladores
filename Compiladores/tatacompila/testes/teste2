@@ -1,0 +1,17 @@
+// Programa 2: Condicional IF/ELSE e operações booleanas
+a = 10;
+b = 5;
+x = vo; // true
+y = vonada; // false
+
+nana (a > b) {
+    oh "a é maior que b";
+} donaoein {
+    oh "a não é maior que b";
+}
+
+nana (x evin y) {
+    oh "Isso não deve ser impresso";
+} donaoein {
+    oh "vo E vonada é falso";
+}

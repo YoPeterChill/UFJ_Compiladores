@@ -1,0 +1,7 @@
+oh "Resultado: ";
+
+x = 10;
+y = "vinte";
+
+// Erro: Operação aritmética entre tipos incompatíveis
+oh (x + y);

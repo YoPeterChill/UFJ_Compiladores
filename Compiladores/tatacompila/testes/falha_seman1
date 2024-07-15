@@ -1,0 +1,8 @@
+oh "Resultado: ";
+
+x = 10;
+y = 20;
+oh (x + y);
+
+// Erro: Uso de variável não declarada
+oh z;

@@ -1,0 +1,24 @@
+a = 2;
+b = 15;
+d = 0;
+c = (a - b) * d;
+c = (1 + 2 * (3 / 4));
+boleano = vo;  // "verdadeiro" traduzido como "vo"
+
+nana (boleano) {
+    oh a;
+}
+
+uta (1 < a evin 2 > b) {
+    oh "Condição Verdadeira!";
+}
+
+queh {
+    nana (a < 1 evin b < 10 evin a != b) {
+        oh "É válido";    
+    } donaoein {
+        oh "Não é válido";
+        a = a - 1;
+        b = b - 1;
+    }
+}
